@@ -1,0 +1,4 @@
+MyLogReg <- function(w, w0, )
+  
+x <- 10
+ 
